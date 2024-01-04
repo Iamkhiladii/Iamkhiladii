@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Iamkhiladii
-- 👀 I’m interested in WEB DEVELOPMENT  
-- 🌱 I’m currently learning CSS, JAVASCRIPT
+- 👀 DOT NET Developer MVC and WEB API, JQuery, Bootstrap, MS SQL SERVER
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me INSTAGRAM - @iam_rahul21_
+- 📫 How to reach me INSTAGRAM - @iam_rahul22_
 
 <!---
 Iamkhiladii/Iamkhiladii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
